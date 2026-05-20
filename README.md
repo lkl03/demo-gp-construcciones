@@ -1,2 +1,7 @@
-# demo-gp-construcciones
-Demo web para Gp Construcciones — diseñada por eterlab.
+# Gp Construcciones
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
